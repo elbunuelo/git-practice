@@ -1,1 +1,6 @@
-# git-practice
+You will rejoice to hear that no disaster has accompanied the commencement of
+an enterprise which you have regarded with such evil forebodings.
+I arrived here yesyerday, and my first task is to assure my dear sister of
+my welfare and increasing confidence in the success of my undertaking.
+
+This looks like a good place to stop for today...
